@@ -1,6 +1,6 @@
 ---
-title: Why Blog
-layout: post
+title: Nibr
+layout: NX
 ---
 
 ## 对博客的理解

@@ -2,11 +2,11 @@
 title: zxst's blog
 email: hao.zhan@novartis.com
 description: > # this means to ignore newlines until "baseurl:"
-  zxst's blog
+  zxst
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://zxst.github.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: zxst
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -26,7 +26,7 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: zxst
 
 # google analytics config
 ga:
@@ -35,9 +35,9 @@ ga:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: kramdown
+markdown: github-flavored-markdown
 highlighter: rouge
-mathjax: disabled
+mathjax: enabled
 sass:
   style: compressed
 
