@@ -1,8 +1,8 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: zxst's blog
+email: hao.zhan@novartis.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  zxst's blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
@@ -47,4 +47,3 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
