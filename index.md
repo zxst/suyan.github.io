@@ -1,6 +1,6 @@
 ---
 title: Nibr
-layout: NX
+layout: post
 ---
 
 ## 对博客的理解
