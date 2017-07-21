@@ -1,5 +1,5 @@
 # Site settings
-title: zxst's blog
+title: zxst
 email: hao.zhan@novartis.com
 description: > # this means to ignore newlines until "baseurl:"
   zxst
@@ -35,7 +35,7 @@ ga:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: github-flavored-markdown
+markdown: kramdown
 highlighter: rouge
 mathjax: enabled
 sass:
