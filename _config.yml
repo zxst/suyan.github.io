@@ -33,7 +33,7 @@ ga:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: redcarpet
+markdown: github-flavored-markdown
 highlighter: rouge
 mathjax: enabled
 sass:
