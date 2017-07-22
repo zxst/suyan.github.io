@@ -33,9 +33,9 @@ ga:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: kramdown
+markdown: GitHub flavored markdown
 highlighter: rouge
-mathjax: disabled
+mathjax: enabled
 sass:
   style: compressed
 
