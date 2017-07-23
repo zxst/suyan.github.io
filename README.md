@@ -17,6 +17,4 @@
 - 三栏布局 (bootstrap-based分支，基于Bootstrap)
 - 单栏布局（first-ui分支，基于Bootstrap）
  
-```math
-x^2
-```
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
