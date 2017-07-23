@@ -1,4 +1,5 @@
 ### 我的博客
+$ \Gamma, G$
 
 地址：[http://yansu.org](http://yansu.org)
 
