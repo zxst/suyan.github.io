@@ -35,7 +35,7 @@ ga:
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 highlighter: rouge
-
+site.mathjax == 'enabled'
 sass:
   style: compressed
 
