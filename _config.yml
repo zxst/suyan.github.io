@@ -45,3 +45,5 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
+theme: jekyll-theme-slate
