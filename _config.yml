@@ -33,9 +33,9 @@ ga:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: github-flavored-markdown
+markdown: kramdown
 highlighter: rouge
-mathjax: enabled
+
 sass:
   style: compressed
 
@@ -45,3 +45,5 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
+theme: jekyll-theme-slate
