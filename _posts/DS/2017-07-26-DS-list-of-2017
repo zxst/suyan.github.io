@@ -1,0 +1,34 @@
+---
+layout: post
+title: DeepChem文献
+category: 新药研发
+tag: DeepChem
+---
+## Low Data Drug Discovery with One-shot Learning
+
+### 1. Descriptions?
+* Introduce a method one-shot learning method used to lower the amounts of data required
+to make meaningful predictions in drug discovery applications.
+* Open source all the works in this paper as
+part of DeepChem
+
+### 2. Background
+* The lead optimization step of drug discovery is fundamentally a low-data problem,Because:
+  * A particular molecule can modulate essential pathways to achieve therapeutic activity
+  * But discovered molecule often fails as a potential drug for  including toxicity, low activity, and low solubility
+  * So,central problem of drug-dis is to optimize the candidate molecule by finding analogue molecules with better activity and less risks
+  * And,only a small amount of biological data available on the candidate and related molecules
+* The small amount of data could not get an accurate predictions for novel compounds
+### 3. Methods
+* ont-shot learning
+* residule LSTM
+* graph-CNN
+
+### 4. Data
+
+### 5. Conclusion
+
+### 6. Notes
+* Tox21 : Toxicology Testing in the 21st Century
+*
+* [DeepChem](https://github.com/deepchem/deepchem)
