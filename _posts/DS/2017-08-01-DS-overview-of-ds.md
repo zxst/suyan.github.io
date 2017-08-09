@@ -33,14 +33,14 @@ The process of finding a hit might be significantly different depending on the t
   * `virtual screening` speed up the hit finding process
   * Computational methods are almost exclusively used for small molecule,几乎只对小分子有用，但随着计算方法的发展，对大分子的支持将指年可待。
 
-### Lead optimization
+### 4.Lead optimization
  Idea is to modify the hit molecule to tightly interact with the desired target biomolecule,the medicinal chemists will teratively modify the structure of the hit molecule until it binds tightly with the target biomolecule. `Can be reliably contracted out to external labs.`
  * **Computional in Lead optimization**  
  Schrodinger’s FEP suite has gained some traction amongst pharmaceutical companies for lead optimization.薛定谔的FEP套件在制药公司中获得了使用，用于优化lead compound.
 
 
 
-### Toxicity testing
+### 5.Toxicity testing
 Testing whether the compound is safe for human ingestion. `Involves ADME (absorption, distribution, metabolism, and excretion)` property characterization. Standard experiments `(hERG, CYP450 inhibition test)` for small molecules that measure whether there exist negative interactions with unsuitable biological systems.
 * **Computional in Toxicity testing**  
 Tox21 challenge for computational toxicology (won by deep learning) raised hope that deep learning methods could advance toxicity testing.
