@@ -43,6 +43,6 @@ The process of finding a hit might be significantly different depending on the t
 ### 5.Toxicity testing
 Testing whether the compound is safe for human ingestion. `Involves ADME (absorption, distribution, metabolism, and excretion)` property characterization. Standard experiments `(hERG, CYP450 inhibition test)` for small molecules that measure whether there exist negative interactions with unsuitable biological systems.
 * **Computional in Toxicity testing**  
-Tox21 challenge for computational toxicology (won by deep learning) raised hope that deep learning methods could advance toxicity testing.
+Tox21 challenge for computational toxicology (won by deep learning) raised hope that deep learning methods could advance toxicity testing.    
 ---
 `All of the computational methods mentioned above  are working in progress, with partial progress, but no definitive advances yet.`
