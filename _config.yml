@@ -35,6 +35,10 @@ ga:
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 sass:
   style: compressed
