@@ -5,7 +5,7 @@ category: 新药研发
 tag: Drug Discovery
 ---
 ### Why do this Project?
-Progess1 : `Elucidationof themutational landscape ofhuman cancer`  
+Progess1 : `Elucidation of the mutational landscape of human cancer`  
 Progess2 : `the development of therapeutics targeting mutant oncogenes.`
 
 **However.....**  
